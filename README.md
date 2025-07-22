@@ -2,7 +2,7 @@
 
 <p align="center">
   First‑year DSBA (HSE) student • 
-  <br/>🎓 Learning ML & DS, open to pet projects.
+  <br/>🎓 Learning ML & DS
 </p>
 
 <p align="center">
