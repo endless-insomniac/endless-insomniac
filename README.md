@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikita 👋</h1>
 
 <p align="center">
-  First‑year DSBA (HSE) student • 
+  Second‑year DSBA (HSE) student • 
   <br/>🎓 Learning ML & DS
 </p>
 
