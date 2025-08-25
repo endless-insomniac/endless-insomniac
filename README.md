@@ -2,7 +2,7 @@
 
 <p align="center">
   Second‑year DSBA (HSE) student • 
-  <br/>🎓 Learning ML & DS
+  <br/>🎓 Learning ML, DS & Finance
 </p>
 
 <p align="center">
