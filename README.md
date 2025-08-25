@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex.eps"     height="40"/>
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40"/>
   <!-- add more icons as needed -->
 </p>
 
