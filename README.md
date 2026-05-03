@@ -15,20 +15,4 @@
 
 ---
 
-### 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=endless-insomniac&show_icons=true&theme=tokyonight"  height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endless-insomniac&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/latex/008080" height="40"/>
-  <!-- add more icons as needed -->
-</p>
-
-> ⚡ Fun fact: I hate C++, but know it better than anything else.
