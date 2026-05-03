@@ -1,9 +1,4 @@
-<h1 align="center">Hi, I'm Nikita </h1>
 
-<p align="center">
-  Second‑year DSBA (HSE) student • 
-  <br/>🎓 Learning ML, DS & Finance
-</p>
 
 <p align="center">
   <!-- social icons via Shields.io + Simple Icons -->
